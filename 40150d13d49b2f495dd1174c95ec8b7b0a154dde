@@ -1,0 +1,7 @@
+Code-Review+2: Javier Peña <jpena@redhat.com>
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Submitted-by: Javier Peña <jpena@redhat.com>
+Submitted-at: Tue, 08 Mar 2016 18:33:46 +0100
+Reviewed-on: https://review.gerrithub.io/265478
+Project: openstack-packages/python-keystoneauth1
+Branch: refs/heads/rpm-master
